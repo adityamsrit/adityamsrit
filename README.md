@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ADITYA GS
 - 👀 I’m interested in developing digital society
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning docker,devops,blockchain
 - 💞️ I’m looking to collaborate on projects and internships
 - 📫 How to reach me:adityags122@gmail.com
 - 😄 Pronouns: he/him
